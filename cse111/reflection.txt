@@ -1,0 +1,31 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+I saw the usefulness and power of functions very greatly. The most powerful
+experience was when I was writing code for an algothrims class. I decided
+that I would apply what I was learning in this class to that class and it made
+me learn how to use functions very well. It helped me solidify what I was learning
+and how to use asserts properly. Before, I had no idea what I was doing with
+those; however, after this class, I know how to use functions and asserts
+efficiently.
+
+
+2. In your judgment, what is the value of test functions?
+They help make sure that the functions are working properly and efficiently.
+They help make sure that you don't have to worry about them failing. Allowing the
+test functions to loop means that it can iterate through your program hundreds of
+times. This allows a person to feel that they have done a good job with their code.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+My process is first looking at the recommendations VSCode gives. If that doesn't
+quite make sense, I use the debugging tool to really help me learn what I need to 
+do and where. Then, I fix what that tool shows me. Something I could do to improve My
+process is use the try and except functions more. I never really used them although I
+know that they are useful. They help catch and explain bugs. Not only those, but also
+using asserts more! They are extremely handy in catching bugs.
+
+
